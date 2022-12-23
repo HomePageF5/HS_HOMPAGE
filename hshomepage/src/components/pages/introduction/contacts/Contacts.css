@@ -10,6 +10,7 @@
 .contact-wrapper {
     display: flex;
     text-align: center;
+    justify-content: space-evenly;
 }
 
 .contact {
@@ -18,4 +19,15 @@
 
 .contact>img, .contact>span {
     display:block;
+    margin: auto;
+}
+
+
+address {
+    text-align: center;
+}
+
+address>p:first-child{
+    margin-top:50px;
+    margin-bottom: 50px;
 }
