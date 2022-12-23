@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "aedata",
+      "name": "AE데이터",
+      "introduction": "우리동아리는 이러이러한 동아리입니다. 방중 스터디와 멘토링을 진행하며, 데이터 분석과 AI에 관심이 많은 학생들이 가입해있습니다.",
+      "recruitment": "상시모집",
+      "projects": [{ "title": "에스파는 나야", "link": "www.google.com" },{ "title": "둘이 될순없어", "link": "www.google.com" }],
+      "location": "인성관 808호",
+      "socialMedia": [{ "flatform": "동아리 홈페이지", "link": "www.daum.net" }],
+      "imgUrl": "logo.png"
+    },
+    {
+      "id": "wepapp",
+      "name": "웹앱개발",
+      "introduction": "우리동아리는 이러이러한 동아리입니다. 웹/앱 개발에 관심이 많은 학우들이 들어오면 좋습니다. 한성대학교 홈페이지 개발 유지보수를 담당하는 동아리입니다. ",
+      "recruitment": "매 학기 초",
+      "projects": [{ "title": "한성대 컴공 학부 홈페이지", "link": "www.google.com" },[{ "title": "한성대 대신 전해드립니다.", "link": "www.google.com" }]],
+      "location": "공학관 b808호",
+      "socialMedia": [{ "flatform": "네이버카페", "link": "www.daum.net" },{ "flatform": "인스타그램", "link": "www.google.com" }],
+      "imgUrl": "logo.png"
+    },
+    {
+      "id": "gamegaebal",
+      "name": "게임개발동아리",
+      "introduction": "우리동아리는 이러이러한 동아리입니다.  게임 개발에 관심이 많은 학우들이 들어오면 좋습니다. 매년 인디 게임 개발 공모전 출전을 목표로 하고 있습니다. ",
+      "recruitment": "매번 달라짐",
+      "projects": [{ "title": "포켓몬스터 스칼렛 바이올렛", "link": "www.google.com" }, {"title": "젤다의 전설", "link": "www.google.com" }],
+      "location": "공학관 b808호",
+      "socialMedia": [{ "flatform": "네이버카페", "link": "www.daum.net" }],
+      "imgUrl": "logo.png"
+    }
+  ]
+}

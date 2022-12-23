@@ -1,0 +1,36 @@
+@import url('https://rsms.me/inter/inter.css');
+
+*:not("Template") {
+    font-family: 'Inter', sans-serif;
+    margin: 0% 20% 0% 20%; 
+    padding: 0px;
+}
+
+.navebar{
+    margin-bottom: 5%;
+}
+
+.club, .capstone, .contest, .programming-camp{
+    font-size : 12px;
+    color: #828282;
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+
+.page{
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 14px;
+    color: #000000;
+}
+
+.club:hover, .capstone:hover, .contest:hover, .programming-camp:hover{
+    font-size : 12px;
+    color: #004DC1;
+    font-style: normal;
+    text-decoration: underline;
+    text-underline-position : under;
+    text-decoration-color:#004DC1;
+    cursor: pointer;
+}

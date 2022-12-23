@@ -1,0 +1,44 @@
+.club{
+    font-size : 12px;
+    color: #004DC1;
+    font-style: normal;
+    text-decoration: underline;
+    text-underline-position : under;
+    text-decoration-color:#004DC1;
+}
+
+.club-wrapper {
+    position: relative;
+}
+
+.club_intro-wrapper::before{
+    content:"";
+    position:absolute;
+    left:0; right:0;
+    top:30px;
+    background-color: black;
+    width: 100%;
+    height: 2px;
+}
+
+.club_intro-wrapper {
+    margin-top: 5%;
+}
+
+.club_intro-wrapper li {
+    list-style: none;
+    margin-bottom: 2%;
+}
+
+.club_intro>li:first-child>span {
+    font-size: 1.75rem;
+}
+
+.club_intro li span {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.club_intro-detail>li {
+    list-style: square;
+}

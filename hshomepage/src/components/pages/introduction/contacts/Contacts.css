@@ -1,0 +1,21 @@
+.Contacts{
+    font-size : 12px;
+    color: #004DC1;
+    font-style: normal;
+    text-decoration: underline;
+    text-underline-position : under;
+    text-decoration-color:#004DC1;
+}
+
+.contact-wrapper {
+    display: flex;
+    text-align: center;
+}
+
+.contact {
+    left:0; right:0;
+}
+
+.contact>img, .contact>span {
+    display:block;
+}
