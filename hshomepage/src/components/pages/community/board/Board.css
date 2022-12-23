@@ -6,3 +6,7 @@
     text-underline-position : under;
     text-decoration-color:#004DC1;
 }
+
+
+table { border: 1px solid black; border-collapse: collapse; }
+table th, table td { border: 1px solid black; }
