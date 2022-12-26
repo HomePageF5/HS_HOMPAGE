@@ -31,7 +31,9 @@ import {Notice} from "./components/pages/community/notice/Notice";
 import {Employment} from "./components/pages/community/employment/Employment";
 import {Calendar} from "./components/pages/community/calendar/Calendar";
 
-const App = () => (
+const App = () => {
+  
+  return (
   <Routes>
     <Route path="/" element={<MainPage />} />
 
@@ -81,5 +83,5 @@ const App = () => (
     </Route>
     <Route path="*" element={<NotFound />} />
   </Routes>
-);
+)};
 export default App;
