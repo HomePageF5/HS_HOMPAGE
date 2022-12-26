@@ -6,3 +6,27 @@
     text-underline-position : under;
     text-decoration-color:#004DC1;
 }
+
+li {
+    display: flex;
+    justify-content: space-between;
+}
+
+li>div {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+li>div>a {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 36px;
+}
+
+li>div>a>img {
+    border-radius: 20%;
+}
+li>div>a>img:hover{
+    border: 2px solid #004DC1;
+}
